@@ -8,8 +8,7 @@
 
 > An end-to-end intelligent agricultural decision platform combining predictive machine learning and generative agronomic intelligence to optimize crop yields and soil management.
 
-🔗 **Live Demo:** [accelrop.vercel.app](https://your-live-link.vercel.app)  
-📑 **API Docs:** [api.accelrop.com/docs](https://your-api-link.onrender.com/docs)
+🔗 **Live Demo:** [accelrop.vercel.app](https://accelcrop.vercel.app/)  
 
 ---
 
